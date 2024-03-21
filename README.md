@@ -1,6 +1,40 @@
-# Frontend Notes 🚀
+# Frontend Notes By Connect Shiksha 🚀
 
-Hello and thanks for stopping by! This is my personal treasure trove where I stash all sorts of notes, tips, and tricks about frontend development. Whether you're starting out, scaling up your skills, or just in need of a quick reference, you're in the right place.
+Welcome to Connect-Shiksha, a community dedicated to providing teaching, learning, and guidance to students in rural areas who are interested in the IT field but lack awareness. We are excited to have you join us on this enriching educational journey!
+
+## About Us
+
+Connect-Shiksha is a community-driven initiative aimed at bridging the gap in IT education access for students in rural areas. Our mission is to empower aspiring students with the knowledge and skills needed to pursue a career in the IT industry.
+
+### Enrollment Statistics
+
+- **Total Students:** 180+
+- **Active Participants:** 30+
+
+## What We Offer
+
+- **Teaching:** Engaging courses designed to introduce students to various aspects of the IT field.
+- **Learning:** Interactive sessions and workshops to foster hands-on learning experiences.
+- **Guidance:** Mentorship and support to help students navigate their educational and career paths.
+
+## Exciting Developments
+
+We have some exciting developments lined up in the coming months, including new courses, workshops, and community events. Stay tuned for updates!
+
+## Course Roadmap
+
+Explore our Course Roadmap to help you make informed decisions about your educational journey. Click on the link below to access valuable insights:
+
+[Course Details](https://bit.ly/m/Connect-Shiksha)
+
+## Contact Us
+
+Have any questions or need assistance? Feel free to reach out to us:
+
+- **Phone:** +919131782103, +917748893097
+- **Email:** [contact@connect-shiksha.com](mailto:contact@connect-shiksha.com)
+
+We're here to help you succeed!
 
 ## What is frontend development? 🌐
 
