@@ -2,8 +2,6 @@
 
 Hello and thanks for stopping by! This is my personal treasure trove where I stash all sorts of notes, tips, and tricks about frontend development. Whether you're starting out, scaling up your skills, or just in need of a quick reference, you're in the right place.
 
-![frontend](https://github.com/djeada/Frontend-Notes/assets/37275728/562de86d-66f1-42c0-991b-82c4cbe74255)
-
 ## What is frontend development? 🌐
 
 Frontend development, also known as client-side development, refers to the process of building the user interface and visual elements of a website or application. It is responsible for creating the look, feel, and overall user experience of a product. Frontend developers work with technologies such as HTML, CSS, and JavaScript to create web pages that are visually appealing, responsive, and interactive.
@@ -23,7 +21,7 @@ The `projects` directory in the root of this repository contains multiple indepe
 
 To get started with a project:
 
-1. Clone the repository: `git clone https://github.com/djeada/Frontend-Notes.git`
+1. Clone the repository: `git clone https://github.com/connectshiksha/Frontend-Notes.git`
 1. Navigate to the projects directory: `cd Frontend-Notes/projects`
 1. Choose a project to work on and navigate to its directory: `cd 01_html/image`
 1. Open the `index.html` file in your web browser to view and interact with the project.
@@ -35,71 +33,71 @@ Happy coding, and keep coming back for more goodies!
 The notes and resources in this repository are organized by topic, with each topic contained in its own subdirectory. To access a specific topic, simply navigate to the corresponding subdirectory and open the relevant files. We recommend working through the material in the following order:
 
 <p float="left">
-  1. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/01_html.md">Introduction to HTML</a>
+  1. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/01_html.md">Introduction to HTML</a>
   <img src="https://img.icons8.com/color/344/html-5--v1.png" height="20" />
 </p>
 
 <p float="left">
-  2. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/02_css.md">Introduction to CSS</a>
+  2. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/02_css.md">Introduction to CSS</a>
   <img src="https://img.icons8.com/color/344/css3.png" height="20" />
 </p>
 
 <p float="left">
-  3. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/03_css_frameworks.md">CSS frameworks</a>
+  3. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/03_css_frameworks.md">CSS frameworks</a>
   <img src="https://img.icons8.com/color/344/bootstrap.png" height="20" />
   <img src="https://img.icons8.com/color/344/sass.png" height="20" />
 </p>
 
 <p float="left">
-  4. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/04_javascript.md">Introduction to JavaScript</a>
+  4. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/04_javascript.md">Introduction to JavaScript</a>
   <img src="https://img.icons8.com/color/344/javascript--v1.png" height="20" />
   <img src="https://img.icons8.com/color/344/typescript.png" height="20" />
 </p>
 
 <p float="left">
-  5. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/05_javascript_frameworks.md">JavaScript frameworks</a>
+  5. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/05_javascript_frameworks.md">JavaScript frameworks</a>
   <img src="https://img.icons8.com/officel/344/react.png" height="20" />
   <img src="https://img.icons8.com/color/344/angularjs.png" height="20" />
   <img src="https://img.icons8.com/color/344/vue-js.png" height="20" />
 </p>
 
 <p float="left">
-  6. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/06_ux.md">UX</a>
+  6. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/06_ux.md">UX</a>
   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/452/external-ux-no-code-flaticons-flat-flat-icons.png" height="20" />
 </p>
 
 <p float="left">
-  7. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/07_ui.md">UI</a>
+  7. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/07_ui.md">UI</a>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-ui-computer-science-flaticons-lineal-color-flat-icons.png" height="20" />
 </p>
 
 <p float="left">
-  8. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/08_protocols.md">Protocols</a>
+  8. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/08_protocols.md">Protocols</a>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-http-internet-marketing-flaticons-lineal-color-flat-icons.png" height="20" />
 </p>
 
 <p float="left">
-  9. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/09_project_structure.md">Structuring frontend projects</a>
+  9. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/09_project_structure.md">Structuring frontend projects</a>
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-project-creativity-flaticons-lineal-color-flat-icons.png" height="20" />
 </p>
 
 <p float="left">
-  10. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/10_testing.md">Testing frameworks</a>
+  10. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/10_testing.md">Testing frameworks</a>
   <img src="https://img.icons8.com/external-sbts2018-outline-color-sbts2018/344/external-testing-basic-ui-elements-2.5-sbts2018-outline-color-sbts2018.png" height="20" />
 </p>
 
 <p float="left">
-  11. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/11_hosting_websites.md">Hosting websites</a>
+  11. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/11_hosting_websites.md">Hosting websites</a>
   <img src="https://img.icons8.com/stickers/344/servers-group.png" height="20" />
 </p>
 
 <p float="left">
-  12. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/12_quizes.md">Quizes</a>
+  12. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/12_quizes.md">Quizes</a>
   <img src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/344/external-quiz-education-smashingstocks-thin-outline-color-smashing-stocks.png" height="20" />
 </p>
 
 <p float="left">
-  13. <a href="https://github.com/djeada/Frontend-Notes/blob/main/notes/13_additional_resources.md">Additional resources</a>
+  13. <a href="https://github.com/connectshiksha/Frontend-Notes/blob/main/notes/13_additional_resources.md">Additional resources</a>
   <img src="https://img.icons8.com/external-febrian-hidayat-flat-febrian-hidayat/344/external-plus-ui-essential-febrian-hidayat-flat-febrian-hidayat.png" height="20" />
 </p>
 
@@ -115,7 +113,7 @@ We encourage contributions that enhance the repository's value. To contribute:
 
 ## References
 
-Here's a collection of resources that I found useful while learning frontend development. 
+Here's a collection of resources that I found useful while learning frontend development.
 
 ### Complete Roadmaps
 
